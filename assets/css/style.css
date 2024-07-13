@@ -1,0 +1,17 @@
+body {
+    font-family: 'roboto', sans-serif;
+}
+
+.color-x {
+    background-color : #28A745;
+}
+
+.precio-2 {
+    color: #28A745;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.tamano-2 {
+    font-size: 13px;
+}
